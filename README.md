@@ -39,5 +39,7 @@ https://medium.com/@ijayakantha/microservices-centralized-configuration-with-spr
 youtube channels:
 
 https://www.youtube.com/c/JavaTechie
+
 https://www.youtube.com/c/amigoscode
+
 https://www.youtube.com/user/SpringSourceDev
