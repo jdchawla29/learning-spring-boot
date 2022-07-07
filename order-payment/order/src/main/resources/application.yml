@@ -1,0 +1,12 @@
+server:
+    port: 8080
+
+spring:
+    h2:
+        console:
+            enabled: true
+    application:
+        name: order
+    config:
+        import:
+            configserver:http://localhost:8085
